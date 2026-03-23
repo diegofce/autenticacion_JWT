@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+passlib[bcrypt]
+bcrypt<5
+python-jose[cryptography]
+python-dotenv
+streamlit
+psycopg2-binary
+psycopg[binary]
+requests
+python-multipart
